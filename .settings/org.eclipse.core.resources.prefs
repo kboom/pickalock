@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/gdroid/pickalock/core/Game.java=UTF-8
+encoding//src/com/gdroid/pickalock/core/GameObjectStatusCodes.java=UTF-8
+encoding//src/com/gdroid/pickalock/core/LockMechanismSystem.java=UTF-8
+encoding//src/com/gdroid/pickalock/core/PositioningComponent.java=UTF-8
+encoding//src/com/gdroid/pickalock/drawing/GLSurface.java=UTF-8
